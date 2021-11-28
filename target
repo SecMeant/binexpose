@@ -1,0 +1,3 @@
+#!/bin/sh
+echo "I'am a dummy target!"
+echo "Did you forgot to upload your own?"
